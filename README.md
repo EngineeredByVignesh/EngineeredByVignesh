@@ -9,15 +9,15 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/vignesh-9aa887214">LinkedIn</a> •
-  <a href="https://www.leetcode.com/vignesh397">LeetCode</a>
+  <a href="https://linkedin.com/in/vignesh397">LinkedIn</a> •
+  <a href="https://www.leetcode.com/CodedByVignesh">LeetCode</a>
 </p>
 
 ---
 
 ### About
 
-I'm a Software Engineer based in Bengaluru, currently working on **AI infrastructure and platform engineering**.
+I'm a Software Engineer based in Bengaluru, India, currently working on **AI infrastructure and platform engineering**.
 
 My work sits at the intersection of **AI agents, Kubernetes, distributed systems, developer infrastructure, and observability**.
 
@@ -33,7 +33,7 @@ Some things I've been working on:
 ### Tech
 
 **Languages**  
-`Go` · `TypeScript` · `Python` · `Rust`
+`Go` · `TypeScript` · `Python` · `Rust` · `Java` 
 
 **Infrastructure**  
 `Kubernetes` · `Docker` · `AWS` · `Kata Containers` · `Argo Workflows`
@@ -42,7 +42,7 @@ Some things I've been working on:
 `OpenTelemetry` · `Prometheus` · `Grafana` · `Loki`
 
 **AI / Agents**  
-`MCP` · `Agent Sandboxes` · `LLM Infrastructure` · `Vector Search`
+`MCP` · `Agent Sandboxes` · `LLM Infrastructure` · `Vector Search` · `RAG` 
 
 ### Building & Exploring
 
