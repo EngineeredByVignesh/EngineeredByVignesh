@@ -1,24 +1,59 @@
-<h1 align="center">Hi 👋, I'm Vignesh</h1>
-<h3 align="center">A passionate Software Developer from Bengaluru</h3>
+<h1 align="center">Hey, I'm Vignesh 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EngineeredByVignesh&label=Profile%20views&color=0e75b6&style=flat" alt="EngineeredByVignesh" /> </p>
-
-- 🌱 I’m currently learning **Node.js and React.js**
-
-- 📫 How to reach me **nvignesh397@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vignesh-9aa887214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vignesh-9aa887214" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vignesh397" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vignesh397" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vignesh397/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vignesh397/profile" height="30" width="40" /></a>
+<p align="center">
+  <b>Software Engineer · AI Infrastructure · Distributed Systems</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  Building infrastructure for AI agents, developer platforms, and reliable distributed systems.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EngineeredByVignesh&show_icons=true&locale=en&layout=compact" alt="EngineeredByVignesh" /></p>
+<p align="center">
+  <a href="https://linkedin.com/in/vignesh-9aa887214">LinkedIn</a> •
+  <a href="https://www.leetcode.com/vignesh397">LeetCode</a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EngineeredByVignesh&show_icons=true&locale=en" alt="EngineeredByVignesh" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EngineeredByVignesh&" alt="EngineeredByVignesh" /></p>
+### About
+
+I'm a Software Engineer based in Bengaluru, currently working on **AI infrastructure and platform engineering**.
+
+My work sits at the intersection of **AI agents, Kubernetes, distributed systems, developer infrastructure, and observability**.
+
+Some things I've been working on:
+
+- 🧠 Infrastructure and runtime systems for autonomous AI agents
+- 📦 Isolated agent execution with **Kubernetes, Kata Containers & Agent Sandbox**
+- 🔌 **MCP infrastructure**, gateways and agent tooling
+- 📊 Agent observability, reliability and incident response
+- ⚙️ Developer platforms, CI/CD and cloud-native infrastructure
+- 🔭 Exploring **agent memory, skill harvesting and secure agent execution**
+
+### Tech
+
+**Languages**  
+`Go` · `TypeScript` · `Python` · `Rust`
+
+**Infrastructure**  
+`Kubernetes` · `Docker` · `AWS` · `Kata Containers` · `Argo Workflows`
+
+**Observability**  
+`OpenTelemetry` · `Prometheus` · `Grafana` · `Loki`
+
+**AI / Agents**  
+`MCP` · `Agent Sandboxes` · `LLM Infrastructure` · `Vector Search`
+
+### Building & Exploring
+
+I'm particularly interested in systems that make AI agents **secure, observable, reliable and scalable**.
+
+Current areas I'm exploring:
+
+`Agent Infrastructure` · `Sandboxing` · `MCP` · `Distributed Systems` · `Developer Platforms` · `Observability`
+
+---
+
+<p align="center">
+  <i>Build systems. Break assumptions. Learn deeply.</i>
+</p>
